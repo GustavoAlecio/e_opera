@@ -1,0 +1,10 @@
+export 'dependecy_manager/dependency_manager.dart';
+export 'dependecy_manager/navigation.dart';
+export 'dependecy_manager/navigation_arguments.dart';
+export 'infrastructure/infrastructure.dart';
+export 'modular/modular.dart';
+export 'mvvm/mvvm.dart';
+export 'navigation/navigation.dart';
+export 'theme/theme.dart';
+export 'utils/utils.dart';
+export 'widgets/widgets.dart';

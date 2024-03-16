@@ -1,0 +1,10 @@
+export 'driver_model.dart';
+export 'entity_model.dart';
+export 'farm_model.dart';
+export 'field_model.dart';
+export 'harvest_model.dart';
+export 'product_model.dart';
+export 'shipping_company_model.dart';
+export 'subsidiary_model.dart';
+export 'variety_model.dart';
+export 'vehicle_model.dart';
